@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-supply-chain-tracking-assets-in-solidity-coding-challenge",
+  "version": "1.0.0",
+  "description": "Answer to CELO Academy coding challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelpg/Blockchain-Supply-Chain-Tracking-Assets-in-Solidity-Coding-Challenge.git"
+  },
+  "author": "raphaelpg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelpg/Blockchain-Supply-Chain-Tracking-Assets-in-Solidity-Coding-Challenge/issues"
+  },
+  "homepage": "https://github.com/raphaelpg/Blockchain-Supply-Chain-Tracking-Assets-in-Solidity-Coding-Challenge#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
